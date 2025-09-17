@@ -1,0 +1,123 @@
+hero:
+  title: "Kampong Trach"
+  tags:
+    - "Falaises de calcaire"
+    - "Histoire"
+    - "Vie rurale"
+  subtitle: "Le secret le mieux gardé de Kampot !"
+  cta:
+    primary: "Réservez l’excursion"
+    secondary: "En savoir plus"
+
+featured:
+  label: "Excursion en vedette"
+  title: "Excursion d’une journée à Kampong Trach"
+  blurb_short: "Découvrez quelques-unes des plus belles campagnes de la province de Kampot : falaises calcaires, grottes sacrées, villages traditionnels, rizières et bien plus encore."
+  details:
+    - "Le tourisme ne revient ici que récemment après un passé difficile."
+    - "Votre guide a grandi ici et aime partager les sites, la campagne et les habitants."
+    - "Programme et arrêts flexibles — photographie, histoire ou simplement nature."
+  note: "Beauté. Tragédie. Guérison. Kampong Trach raconte l’histoire du Cambodge."
+
+story:
+  p1: "Kampong Trach, à environ 40 km du centre-ville de Kampot, était autrefois l’une des zones les plus célèbres de la province. Ses falaises calcaires spectaculaires et la beauté naturelle de la région ont conduit au développement d’un centre commercial animé pendant la colonisation française. Puis, à la fin des années 1960, les Khmers rouges sont arrivés…"
+  p2: "Les bombardements américains ont suivi. La région fut dévastée. Notre campagne paisible devint une zone de guerre. Les falaises et grottes spectaculaires, autrefois des attractions touristiques populaires, devinrent des cachettes pour les villageois, comme ma famille. Je suis né ici dans les années 1980, en pleine guerre civile. Nous avons vécu sous les Khmers rouges jusqu’à leur reddition en 1995."
+  p3: "Aujourd’hui, le développement est lent, mais la terre guérit. Les grottes et sanctuaires sont désormais des mémoriaux. Les rizières s’animent de buffles, et les lacs que nous avons été forcés de construire sous les Khmers rouges reflètent désormais la beauté naturelle de cet endroit."
+  p4: "J’aimerais vous faire découvrir Kampong Trach : une facette authentique du Cambodge rural et, à mon avis, l’un des plus beaux endroits de la province. Un lieu seulement redécouvert par le tourisme aujourd’hui."
+
+tours:
+  bridge: "La province de Kampot a beaucoup à offrir ! Je peux aussi vous emmener sur les circuits classiques de Kampot !"
+  labels:
+    from: "À partir de"
+    perPerson: "/ personne"
+    readMore: "Lire plus"
+    readLess: "Lire moins"
+    includes: "Comprend"
+    prices: "Tarifs"
+    people: "Personnes"
+    person: "personne"
+  list:
+    - id: "kampong-trach"
+      name: "Kampong Trach"
+      title: "Kampong Trach — Excursion en vedette"
+      short: "Découvrez une campagne cambodgienne authentique encore méconnue des touristes !"
+      duration: "Journée complète"
+      details: |
+        Découvrez quelques-unes des campagnes les plus belles et authentiques de la province de Kampot. 
+
+        Falaises calcaires, grottes sacrées, villages traditionnels, rizières et bien plus encore ! Le tourisme ne revient ici que depuis peu après un passé difficile. J’ai grandi ici et je serais heureux de vous montrer les sites, la campagne et les habitants que j’aime tant !
+
+        Découvrez une partie de la province de Kampot que peu de visiteurs connaissent.
+      highlights:
+        - "Grotte de la Montagne — une jungle à l’intérieur !"
+        - "Grotte aquatique pour nager"
+        - "La Grotte de la Lune"
+        - "Phnom Damrai (Montagne de l’Éléphant)"
+        - "Champs de buffles"
+        - "Phnom TuekThom"
+        - "Villages, rizières et bien plus encore !"
+        - "Prise en charge et retour à l’hôtel"
+      cta: "Réservez maintenant"
+
+    - id: "countryside-full"
+      name: "Kampot & Kep"
+      title: "Excursion campagne d’une journée — Kampot & Kep"
+      short: "Vivez le meilleur de Kampot et Kep en une journée inoubliable."
+      duration: "Journée complète"
+      details: |
+        La grande excursion d’une journée ! Campagne de Kampot & Kep.
+
+        Explorez des grottes anciennes, promenez-vous dans des fermes de poivre, découvrez les salines et des lacs cachés avant de terminer votre aventure à Kep avec des fruits de mer frais et la brise de l’océan.
+      highlights:
+        - "Plantation de poivre de Kampot"
+        - "Temple-grotte de Phnom Chhngok"
+        - "Lac Secret"
+        - "Marché aux crabes de Kep (déjeuner de fruits de mer)"
+        - "Sentiers du parc national de Kep"
+        - "Baignade à la plage de Kep"
+        - "Villas françaises abandonnées"
+      cta: "Réservez maintenant"
+
+    - id: "countryside-half"
+      name: "Kampot Classique"
+      title: "Campagne de Kampot (Demi-journée)"
+      short: "Découvrez le charme de Kampot en seulement une demi-journée."
+      duration: "Demi-journée"
+      details: |
+        Promenez-vous dans les salines, explorez des grottes anciennes, visitez les célèbres fermes de poivre et détendez-vous au bord des eaux paisibles du Lac Secret. Cette excursion est conçue pour ceux qui souhaitent découvrir le charme de la campagne de Kampot sans consacrer une journée entière au voyage.
+      highlights:
+        - "Salines"
+        - "Visite et dégustation dans une ferme de poivre"
+        - "Grottes calcaires avec sanctuaires anciens"
+        - "Lac Secret"
+      cta: "Réservez maintenant"
+
+about:
+  title: "À propos de votre chauffeur"
+  body: "Chauffeur-guide local de Kampong Trach. Accueillant, prudent et expérimenté sur les routes de campagne. Tuk-tuk propre, avec protection soleil/pluie et bouteilles d’eau supplémentaires."
+
+contact:
+  title: "Prêt à partir ?"
+  sub: "Vous souhaitez réserver une excursion ou simplement poser une question ? Envoyez-moi un message à tout moment !"
+  buttons:
+    whatsapp: "WhatsApp"
+    telegram: "Telegram"
+    phone: "Appeler"
+    email: "Email"
+
+footer:
+  contactLabel: "Contact"
+  languageLabel: "Langue"
+
+ui:
+  prices:
+    title: "Tarifs"
+    subtitleSuffix: "Les tarifs sont par personne."
+    headers:
+      one: "1 personne"
+      two: "2 personnes"
+      threePlus: "3+ personnes"
+    perPersonShort: "/ personne"
+  people:
+    singular: "personne"
+    plural: "personnes"

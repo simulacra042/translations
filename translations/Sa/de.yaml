@@ -1,0 +1,134 @@
+brand:
+  title: "TukTuk Touren mit Sa"
+
+seo:
+  title: "Sa’s TukTuk Touren • Kampot, Kambodscha"
+  description: "Lizenzierter lokaler Guide bietet Kajaktouren, Wanderungen zu versteckten Wasserfällen und eine ganztägige Grand Tour in Kampot, Kambodscha. Hotelabholung, Mittagessen und Getränke bei ausgewählten Touren inklusive."
+
+nav:
+  tours: "Touren"
+  gallery: "Galerie"
+  contact: "Kontakt"
+
+sections:
+  toursTitle: "Meine Touren"
+  galleryTitle: "Galerie"
+  reviewsTitle: "Was Gäste sagen"
+  faqsTitle: "Häufige Fragen"
+  contactTitle: "Tour buchen"
+
+hero:
+  headline: "Willkommen bei meinen TukTuk Touren"
+  subhead: >
+    Hallo, ich bin Sa! Kampot ist meine Heimat, und seit über zehn Jahren führe ich
+    Besucher durch Höhlen, Kanäle, Farmen und verborgene Schätze. Ich bin lizenzierter
+    Guide und euer Abenteuerpartner, nicht nur euer Fahrer. Lasst uns eure Zeit in Kampot
+    zum Highlight eurer Reise machen.
+  cta: "Jetzt buchen"
+  alt: "Sa lächelt mit Strohhut — Logo"
+
+priceLabel: "Pro Person"
+includesLabel: "Tour beinhaltet"
+
+tours:
+  kayak:
+    name: "Kajak die Grüne Kathedrale"
+    desc: >
+      Begleitet mich auf eine Kajaktour durch die berühmten Mangrovenwälder Kampots.
+      Ich erkläre euch die lokale Flora und Fauna, zeige, wie man Lotuskränze macht, und mehr!
+      Den Tag beenden wir mit einem traditionellen Khmer-Mittagessen und einem Bad an einem
+      abgelegenen Sandstrand.
+    includes:
+      - "Abholung und Rückfahrt zu eurem Hotel"
+      - "Kajaks"
+      - "Traditionelles Khmer-Mittagessen"
+      - "Getränke"
+
+  waterfall:
+    name: "Verborgener Wasserfall"
+    desc: >
+      Entflieht der Stadt und begleitet mich auf einer geführten Wanderung zum Viel Pouch
+      Wasserfall. Unterwegs zeige ich lokale Pflanzen und Tiere und teile mein Wissen über den Wald.
+      Abkühlen im Wasser, frisches Obst und Getränke genießen, und eine ruhige Seite Kampots erleben,
+      die viele Besucher verpassen.
+    includes:
+      - "Abholung und Rückfahrt zu eurem Hotel"
+      - "Frisches Obst und Getränke"
+
+  grand:
+    name: "Kampot Grand Tour"
+    desc: >
+      Wenig Zeit? Wollt ihr das Beste herausholen? Meine Grand Tour führt euch an einem Tag
+      zu allen großen Sehenswürdigkeiten Kampots. Entspannt euch und entdeckt alles, was Kampot zu bieten hat!
+    includes:
+      - "Die Salzfelder"
+      - "Besuch einer Pfefferfarm"
+      - "Stopp am Secret Lake"
+      - "Erkundung lokaler Höhlen"
+      - "Kajaktour durch die „Green Cathedral“"
+      - "Traditionelles Khmer-Mittagessen"
+
+  kep:
+    name: "Perfekter Kep-Tag"
+    desc: >
+      Ein entspannter Küstentag mit den Highlights von Kep. Wir starten um 8:30 Uhr
+      mit einer ca. 8 km langen Runde durch den Kep-Nationalpark, besuchen danach
+      den berühmten Krabbenmarkt, den Strand und die Meditationspagode auf dem
+      Hügel. Unterwegs sehen wir alte französische Villen, spazieren am Mangrovenrand
+      entlang und halten in einem Fischerdorf, bevor wir gegen 16–17 Uhr zurückkehren.
+    includes:
+      - "Abholung und Rückfahrt zu eurem Hotel"
+      - "Kühles Trinkwasser & frische Kokosnuss"
+      - "Snacks"
+      - "Englischsprachiger Guide"
+
+reviews:
+  - author: "Rosetta Neal"
+    date: "7. Aug. 2025"
+    quote: "Wunderbare Nachmittagstour mit Mr. Sa. Viel Wissen über diese Region und das Land. Großartiges Englisch und weitere Sprachen. Zögert nicht – bucht einfach, ihr werdet es nicht bereuen!"
+    linkLabel: "Auf Google lesen"
+    url: "https://maps.app.goo.gl/deY5b5rGsZYvzaNS6"
+  - author: "Rob & Jen Dickson"
+    date: "31. Mär. 2025"
+    quote: "Wundervoller Tag beim Kajakfahren auf dem Fluss. Mr. Sa ist hier aufgewachsen und konnte sein Wissen teilen. Sehr gutes Englisch. Eine entspannte grüne Oase abseits des Trubels von Kampot. Sehr empfehlenswert!"
+    linkLabel: "Auf Google lesen"
+    url: "https://maps.app.goo.gl/pH2tver78Recfeah9"
+  - author: "Matt Jenner"
+    date: "28. Feb. 2025"
+    quote: "Toller Tag mit Mr. Sa auf dem Wasser. Viel besser als ein Bokor-Tagesausflug über unser Hotel. Das gebratene Reis-Mittagessen am Ende war sehr lecker in einer schönen Umgebung."
+    linkLabel: "Auf Google lesen"
+    url: "https://maps.app.goo.gl/xqitCtJbu8sLipod7"
+
+faqs:
+  - q: "Wie buche ich?"
+    a: >
+      Schreibt mir über WhatsApp, Telegram oder ruft mich an. Nennt euer Datum,
+      die Gruppengröße und welche Tour ihr möchtet. Ich antworte schnell, bestätige die Verfügbarkeit,
+      teile die Abholzeit mit und sende eine kurze Bestätigung.
+  - q: "Wo holst du ab?"
+    a: >
+      Ich hole euch an eurem Hotel in Kampot ab und bringe euch zurück. Bitte gebt bei der Buchung
+      euren Hotelnamen (oder einen Kartenlink) an. Ich bestätige dann Zeit und Treffpunkt.
+  - q: "Was soll ich mitbringen?"
+    a: >
+      Sonnenschutz, Hut, Badebekleidung (für Kajak/Wasserfall) und bequeme Schuhe. Eine kleine Tasche ist hilfreich,
+      ebenso Handtuch/Wechselkleidung, falls ihr schwimmen möchtet. Wasser und Obst stelle ich bereit.
+  - q: "Welche Sprachen bietest du an?"
+    a: >
+      Englisch & Khmer. In anderen Sprachen kenne ich nur wenige Worte – gut für einen Witz,
+      aber nicht für Anweisungen oder Sicherheit.
+  - q: "Bietest du Gruppentarife an?"
+    a: >
+      Für größere Gruppen teilt mir bitte eure Daten, ungefähre Personenzahl und Logistik mit.
+      Ich sende dann ein Angebot mit Preis.
+
+contact:
+  intro: "Lasst uns gemeinsam ein Abenteuer erleben! Ob buchen oder nur plaudern – ich freue mich auf eure Nachricht."
+  whatsapp: "WhatsApp"
+  telegram: "Telegram"
+  call: "Anrufen"
+  location: "Standort"
+  avatarAlt: "Fahrer Porträt"
+  apology: "Entschuldigung, ich spreche nur Englisch und Khmer."
+
+galleryAlt: "Kampot Tourfoto – %s"

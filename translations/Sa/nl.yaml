@@ -1,0 +1,132 @@
+brand:
+  title: "TukTuk Tours met Sa"
+
+seo:
+  title: "Sa’s TukTuk Tours • Kampot, Cambodja"
+  description: "Ervaren lokale gids biedt kajaktochten, wandelingen naar verborgen watervallen en een volledige dag Grand Tour in Kampot, Cambodja. Hotel pick-up, lunch en drankjes inbegrepen bij geselecteerde tours."
+
+nav:
+  tours: "Tours"
+  gallery: "Galerij"
+  contact: "Contact"
+
+sections:
+  toursTitle: "Mijn Tours"
+  galleryTitle: "Galerij"
+  reviewsTitle: "Wat mensen zeggen"
+  faqsTitle: "Veelgestelde vragen"
+  contactTitle: "Boek een Tour"
+
+hero:
+  headline: "Welkom bij mijn TukTuk Tours"
+  subhead: >
+    Hallo, ik ben Sa! Kampot is mijn thuis, en al meer dan tien jaar leid ik bezoekers
+    door grotten, kanalen, boerderijen en verborgen plekjes. Ik ben een erkende gids en je
+    avonturenpartner, niet alleen je chauffeur. Laten we van jouw tijd in Kampot het hoogtepunt van je reis maken.
+  cta: "Boek nu"
+  alt: "Sa glimlachend met strohoed — logo"
+
+priceLabel: "Per persoon"
+includesLabel: "Inclusief"
+
+tours:
+  kayak:
+    name: "Kajakken in de Groene Kathedraal"
+    desc: >
+      Ga mee op een kajaktocht door de beroemde mangrovebossen van Kampot.
+      Ik leg de lokale flora en fauna uit, laat zien hoe je lotuskronen maakt en meer!
+      We eindigen de dag met een traditionele Khmer-lunch en een duik op een afgelegen zandstrand.
+    includes:
+      - "Ophalen en terugbrengen bij je hotel"
+      - "Kajaks"
+      - "Traditionele Khmer-lunch"
+      - "Drankjes"
+
+  waterfall:
+    name: "Verborgen Waterval Tour"
+    desc: >
+      Ontsnap aan de stad en ga met mij mee op een begeleide junglewandeling naar de Viel Pouch-waterval.
+      Onderweg wijs ik lokale planten en dieren aan en deel mijn kennis van het bos.
+      Neem een verfrissende duik, geniet van vers fruit en drankjes, en ervaar een rustige kant van Kampot die veel bezoekers missen.
+    includes:
+      - "Ophalen en terugbrengen bij je hotel"
+      - "Vers fruit en drankjes"
+
+  grand:
+    name: "Kampot Grand Tour"
+    desc: >
+      Weinig tijd? Wil je er het meeste uithalen? Mijn Grand Tour neemt je in één dag mee
+      naar de belangrijkste bezienswaardigheden van Kampot. Ontspan en zie alles wat Kampot te bieden heeft!
+    includes:
+      - "De zoutvelden"
+      - "Bezoek aan een peperboerderij"
+      - "Stop bij Secret Lake"
+      - "Ontdekking van lokale grotten"
+      - "Kajakken door de ‘Groene Kathedraal’"
+      - "Traditionele Khmer-lunch"
+
+  kep:
+    name: "Perfecte Dag in Kep"
+    desc: >
+      Een ontspannen dag aan de kust langs de hoogtepunten van Kep. We beginnen
+      om 8:30u met een rondwandeling van ongeveer 8 km in het Kep Nationaal Park,
+      daarna bezoeken we de beroemde Krabbenmarkt, het strand en de meditatiepagode
+      op de heuvel. Onderweg zien we oude Franse villa’s, lopen we langs de mangrove
+      en stoppen we in een vissersdorp, met terugkomst rond 16–17u.
+    includes:
+      - "Ophalen en terugbrengen bij je hotel"
+      - "Koel drinkwater & verse kokosnoot"
+      - "Snacks"
+      - "Engelssprekende gids"
+
+reviews:
+  - author: "Rosetta Neal"
+    date: "7 aug. 2025"
+    quote: "Prachtige middagtocht met Mr Sa. Veel kennis over deze mooie regio en het land. Fantastisch Engels en ook andere talen. Niet twijfelen, gewoon boeken – je krijgt er geen spijt van!"
+    linkLabel: "Lees op Google"
+    url: "https://maps.app.goo.gl/deY5b5rGsZYvzaNS6"
+  - author: "Rob & Jen Dickson"
+    date: "31 mrt. 2025"
+    quote: "Heerlijke dag kajakken op de rivier. Mr Sa is hier opgegroeid en kon zijn kennis delen. Zijn Engels was erg goed. Een ontspannen groene oase weg van de drukte van Kampot. Zeker een aanrader!"
+    linkLabel: "Lees op Google"
+    url: "https://maps.app.goo.gl/pH2tver78Recfeah9"
+  - author: "Matt Jenner"
+    date: "28 feb. 2025"
+    quote: "Geweldige dag op het water met Mr Sa. Veel leuker dan een Bokor-dagtocht via ons hotel. De gebakken rijstlunch aan het einde was erg lekker in een prachtige omgeving."
+    linkLabel: "Lees op Google"
+    url: "https://maps.app.goo.gl/xqitCtJbu8sLipod7"
+
+faqs:
+  - q: "Hoe boek ik?"
+    a: >
+      Stuur me een bericht via WhatsApp, Telegram of bel me met de knoppen hieronder.
+      Vertel me je datum, groepsgrootte en welke tour je wilt. Ik antwoord snel om de beschikbaarheid te bevestigen,
+      de ophaaltijd te delen en een korte bevestiging te sturen.
+  - q: "Waar haal je ons op?"
+    a: >
+      Ik bied pick-up en drop-off bij je hotel in Kampot. Vermeld bij je boeking de hotelnaam
+      (of een kaartlink). Ik bevestig dan de exacte tijd en ontmoetingsplaats.
+  - q: "Wat moet ik meenemen?"
+    a: >
+      Zonnebrandcrème, een hoed, zwemkleding (voor kajak/waterval) en comfortabele schoenen.
+      Een kleine dagtas is handig, evenals een handdoek/extra kleding als je wilt zwemmen.
+      Ik zorg voor water en vers fruit.
+  - q: "Welke talen spreek je?"
+    a: >
+      Engels & Khmer. In andere talen ken ik slechts een paar woorden – goed voor een grapje,
+      niet voor aanwijzingen of veiligheid.
+  - q: "Bied je groepskortingen aan?"
+    a: >
+      Voor grotere groepen: deel je data, het geschatte aantal personen en logistiek.
+      Dan stuur ik een voorstel en prijs.
+
+contact:
+  intro: "Laten we samen op avontuur gaan! Of je nu wilt boeken of gewoon wilt chatten, ik hoor graag van je."
+  whatsapp: "WhatsApp"
+  telegram: "Telegram"
+  call: "Bellen"
+  location: "Locatie"
+  avatarAlt: "Chauffeur portret"
+  apology: "Sorry, ik spreek alleen Engels en Khmer."
+
+galleryAlt: "Kampot toerfoto – %s"

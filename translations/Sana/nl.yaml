@@ -1,0 +1,123 @@
+hero:
+  title: "Kampong Trach"
+  tags:
+    - "Kalkstenen kliffen"
+    - "Geschiedenis"
+    - "Landelijk leven"
+  subtitle: "Het best bewaarde geheim van Kampot!"
+  cta:
+    primary: "Dagtocht boeken"
+    secondary: "Meer informatie"
+
+featured:
+  label: "Aanbevolen tour"
+  title: "Dagtocht naar Kampong Trach"
+  blurb_short: "Bezoek enkele van de mooiste landschappen van de provincie Kampot: kalkstenen kliffen, heilige grotten, traditionele dorpen, rijstvelden en meer."
+  details:
+    - "Het toerisme is hier pas recent teruggekeerd na een moeilijke periode."
+    - "Uw gids is hier opgegroeid en deelt graag de bezienswaardigheden, het platteland en de mensen."
+    - "Flexibel schema en stops — fotografie, geschiedenis of gewoon natuur."
+  note: "Schoonheid. Tragedie. Genezing. Kampong Trach vertelt het verhaal van Cambodja."
+
+story:
+  p1: "Kampong Trach, ongeveer 40 km van het centrum van Kampot, was ooit een van de bekendste gebieden van de provincie. De indrukwekkende kalkstenen kliffen en de natuurlijke schoonheid zorgden tijdens de Franse kolonisatie voor de ontwikkeling van een bruisend handelscentrum. En toen, eind jaren zestig, kwamen de Khmer Rouge…"
+  p2: "Kort daarna volgden de Amerikaanse bombardementen. Het gebied werd verwoest. Ons vredige platteland werd een oorlogsgebied. De indrukwekkende kalkstenen kliffen en grotten, ooit populaire attracties, werden schuilplaatsen voor dorpelingen, zoals mijn familie. Ik ben hier in de jaren tachtig geboren, tijdens de burgeroorlog. Wij leefden onder de Khmer Rouge tot hun uiteindelijke overgave in 1995."
+  p3: "Vandaag verloopt de ontwikkeling langzaam, maar het land geneest. De grotten en heiligdommen staan nu als gedenkplaatsen. De rijstvelden zijn gevuld met buffels, en de meren die wij onder de Khmer Rouge moesten bouwen, weerspiegelen nu de natuurlijke schoonheid van deze plek."
+  p4: "Ik laat u graag Kampong Trach zien: een authentieke kant van het landelijke Cambodja en, naar mijn mening, een van de mooiste gebieden van de provincie. Een plek die pas nu opnieuw door toeristen wordt ontdekt."
+
+tours:
+  bridge: "De provincie Kampot heeft veel te bieden! Ik kan u ook meenemen op de klassieke Kampot-tours!"
+  labels:
+    from: "Vanaf"
+    perPerson: "/ persoon"
+    readMore: "Lees meer"
+    readLess: "Lees minder"
+    includes: "Inclusief"
+    prices: "Prijzen"
+    people: "Personen"
+    person: "persoon"
+  list:
+    - id: "kampong-trach"
+      name: "Kampong Trach"
+      title: "Kampong Trach — Aanbevolen Tour"
+      short: "Beleef het authentieke Cambodjaanse platteland dat toeristen nog niet hebben ontdekt!"
+      duration: "Volledige dag"
+      details: |
+        Bezoek enkele van de mooiste en meest authentieke landschappen van de provincie Kampot. 
+
+        Kalkstenen kliffen, heilige grotten, traditionele dorpen, rijstvelden en meer! Het toerisme is hier pas recent teruggekeerd na een moeilijke periode. Ik ben hier opgegroeid en laat u met plezier de bezienswaardigheden, het platteland en de mensen zien die ik zo liefheb!
+
+        Ontdek een deel van de provincie Kampot dat slechts weinig bezoekers kennen.
+      highlights:
+        - "Berggrot — een jungle van binnen!"
+        - "Watergrot met natuurlijk zwembad"
+        - "De Maangrot"
+        - "Phnom Damrai (Olifantenberg)"
+        - "Buffelvelden"
+        - "Phnom TuekThom"
+        - "Dorpen, rijstvelden en meer!"
+        - "Ophalen & terugbrengen bij hotel"
+      cta: "Nu boeken"
+
+    - id: "countryside-full"
+      name: "Kampot & Kep"
+      title: "Plattelandstour van een hele dag — Kampot & Kep"
+      short: "Ervaar het beste van Kampot en Kep in één onvergetelijke dag."
+      duration: "Volledige dag"
+      details: |
+        De grote dagtour! Kampot Platteland & Kep.
+
+        Ontdek oude grotten, wandel door peperplantages en zie zoutvelden en verborgen meren voordat u uw avontuur afsluit in Kep met verse zeevruchten en een frisse zeebries.
+      highlights:
+        - "Peperplantage van Kampot"
+        - "Phnom Chhngok grot-tempel"
+        - "Geheime Meer"
+        - "Kep Krabbenmarkt (zeevruchtenlunch)"
+        - "Kep Nationaal Park wandelpaden"
+        - "Zwemmen op het strand van Kep"
+        - "Verlaten Franse villa’s"
+      cta: "Nu boeken"
+
+    - id: "countryside-half"
+      name: "Kampot Klassiek"
+      title: "Kampot Platteland (Halve dag)"
+      short: "Ontdek de charme van Kampot in slechts een halve dag."
+      duration: "Halve dag"
+      details: |
+        Wandel door de zoutvelden, verken oude grotten, bezoek de wereldberoemde peperboerderijen en ontspan aan de rustige oevers van het Geheime Meer. Deze tour is ontworpen voor iedereen die de charme van het platteland van Kampot wil beleven zonder een hele dag onderweg te zijn.
+      highlights:
+        - "Zoutvelden"
+        - "Peperboerderij-tour & proeverij"
+        - "Kalksteengrotten met oude heiligdommen"
+        - "Geheime Meer"
+      cta: "Nu boeken"
+
+about:
+  title: "Over uw chauffeur"
+  body: "Lokale chauffeur-gids uit Kampong Trach. Vriendelijk, veilig en ervaren op landelijke routes. Schone tuk-tuk, bescherming tegen zon/regen en extra water."
+
+contact:
+  title: "Klaar om te vertrekken?"
+  sub: "Wilt u een tour boeken of gewoon een vraag stellen? Stuur mij op elk moment een bericht!"
+  buttons:
+    whatsapp: "WhatsApp"
+    telegram: "Telegram"
+    phone: "Bellen"
+    email: "E-mail"
+
+footer:
+  contactLabel: "Contact"
+  languageLabel: "Taal"
+
+ui:
+  prices:
+    title: "Prijzen"
+    subtitleSuffix: "Prijzen zijn per persoon."
+    headers:
+      one: "1 persoon"
+      two: "2 personen"
+      threePlus: "3+ personen"
+    perPersonShort: "/ persoon"
+  people:
+    singular: "persoon"
+    plural: "personen"

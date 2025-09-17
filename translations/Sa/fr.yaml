@@ -1,0 +1,134 @@
+brand:
+  title: "Tours TukTuk avec Sa"
+
+seo:
+  title: "Tours TukTuk de Sa • Kampot, Cambodge"
+  description: "Guide local agréé proposant des sorties en kayak, des randonnées vers des cascades cachées et un Grand Tour d'une journée à Kampot, Cambodge. Prise en charge à l'hôtel, déjeuner et boissons inclus selon les tours."
+
+nav:
+  tours: "Excursions"
+  gallery: "Galerie"
+  contact: "Contact"
+
+sections:
+  toursTitle: "Mes Excursions"
+  galleryTitle: "Galerie"
+  reviewsTitle: "Avis des clients"
+  faqsTitle: "Questions fréquentes"
+  contactTitle: "Réserver une Excursion"
+
+hero:
+  headline: "Bienvenue à mes Tours TukTuk"
+  subhead: >
+    Bonjour, je suis Sa ! Kampot est ma maison et depuis plus de dix ans j’accompagne
+    les visiteurs à travers ses grottes, canaux, fermes et trésors cachés. Je suis guide agréé
+    et votre partenaire d’aventure, pas seulement votre chauffeur. Faisons de votre séjour à Kampot
+    le moment fort de votre voyage.
+  cta: "Réservez maintenant"
+  alt: "Sa souriant avec un chapeau de paille — logo"
+
+priceLabel: "Par personne"
+includesLabel: "Comprend"
+
+tours:
+  kayak:
+    name: "Kayak dans la Cathédrale Verte"
+    desc: >
+      Rejoignez-moi pour une sortie en kayak à travers les célèbres mangroves de Kampot.
+      Je vous expliquerai la faune et la flore locales, vous montrerai comment faire des couronnes de lotus, et plus encore !
+      Nous terminerons par un déjeuner khmer traditionnel et une baignade sur une plage isolée.
+    includes:
+      - "Prise en charge et retour à votre hôtel"
+      - "Kayaks"
+      - "Déjeuner khmer traditionnel"
+      - "Boissons"
+
+  waterfall:
+    name: "Excursion à la Cascade Cachée"
+    desc: >
+      Échappez à la ville et suivez-moi pour une randonnée guidée dans la jungle vers la cascade Viel Pouch.
+      En chemin, j’indiquerai les plantes et animaux locaux et partagerai mes connaissances de la forêt.
+      Profitez d’une baignade, de fruits frais et de boissons, et découvrez une facette paisible de Kampot souvent manquée.
+    includes:
+      - "Prise en charge et retour à votre hôtel"
+      - "Fruits frais et boissons"
+
+  grand:
+    name: "Grand Tour de Kampot"
+    desc: >
+      Peu de temps ? Vous voulez en profiter au maximum ? Mon Grand Tour vous emmène
+      aux principales attractions touristiques de Kampot en une seule journée. Détendez-vous et découvrez tout ce que Kampot a à offrir !
+    includes:
+      - "Les marais salants"
+      - "Visite d’une ferme de poivre"
+      - "Pause au Secret Lake"
+      - "Exploration de grottes locales"
+      - "Kayak dans la « Cathédrale Verte »"
+      - "Déjeuner khmer traditionnel"
+
+  kep:
+    name: "Journée Parfaite à Kep"
+    desc: >
+      Une journée détendue à la côte en découvrant les incontournables de Kep.
+      Nous commençons à 8h30 par une boucle d’environ 8 km dans le parc national
+      de Kep, puis nous visitons le marché aux crabes, la plage et la pagode de
+      méditation sur la colline. En chemin, nous verrons d’anciennes villas
+      coloniales françaises, longerons la mangrove et ferons une halte dans un
+      village de pêcheurs avant de rentrer vers 16h–17h.
+    includes:
+      - "Prise en charge et retour à votre hôtel"
+      - "Eau fraîche et noix de coco"
+      - "Snacks"
+      - "Guide anglophone"
+
+reviews:
+  - author: "Rosetta Neal"
+    date: "7 août 2025"
+    quote: "Magnifique excursion l’après-midi avec M. Sa. Grande connaissance de la région et du pays. Excellent anglais ainsi que d’autres langues. N’hésitez pas à réserver, vous ne le regretterez pas !"
+    linkLabel: "Lire sur Google"
+    url: "https://maps.app.goo.gl/deY5b5rGsZYvzaNS6"
+  - author: "Rob & Jen Dickson"
+    date: "31 mars 2025"
+    quote: "Superbe journée en kayak sur la rivière. M. Sa a grandi dans la région et partage volontiers ses connaissances. Son anglais est très bon. Une oasis verte et reposante loin de l’agitation de Kampot. Hautement recommandé !"
+    linkLabel: "Lire sur Google"
+    url: "https://maps.app.goo.gl/pH2tver78Recfeah9"
+  - author: "Matt Jenner"
+    date: "28 févr. 2025"
+    quote: "Excellente journée avec M. Sa sur l’eau. Bien mieux qu’un circuit à Bokor organisé par l’hôtel. Le déjeuner de riz frit à la fin était délicieux dans un cadre magnifique."
+    linkLabel: "Lire sur Google"
+    url: "https://maps.app.goo.gl/xqitCtJbu8sLipod7"
+
+faqs:
+  - q: "Comment réserver ?"
+    a: >
+      Envoyez-moi un message sur WhatsApp, Telegram ou téléphonez avec les boutons ci-dessous.
+      Indiquez la date, la taille du groupe et la visite souhaitée. Je répondrai rapidement pour confirmer
+      la disponibilité, partager l’heure de prise en charge et envoyer une confirmation.
+  - q: "Où viens-tu nous chercher ?"
+    a: >
+      Je propose la prise en charge et le retour à votre hôtel à Kampot. Lors de la réservation, indiquez le nom de votre hôtel
+      (ou un lien Google Maps). Je confirmerai ensuite l’heure et le point de rencontre exacts.
+  - q: "Que dois-je apporter ?"
+    a: >
+      Crème solaire, chapeau, maillot de bain (pour kayak/cascade) et chaussures confortables.
+      Un petit sac de jour est utile, ainsi qu’une serviette/vêtements de rechange si vous prévoyez de nager.
+      Je fournis de l’eau et des fruits frais.
+  - q: "Quelles langues proposes-tu ?"
+    a: >
+      Anglais & Khmer. Dans d’autres langues je ne connais que quelques mots — bons pour une blague,
+      mais pas pour des consignes de sécurité.
+  - q: "Proposes-tu des tarifs de groupe ?"
+    a: >
+      Pour les grands groupes, veuillez m’indiquer vos dates, le nombre approximatif de personnes et la logistique.
+      Je vous enverrai ensuite une proposition et un tarif.
+
+contact:
+  intro: "Partons à l’aventure ensemble ! Que ce soit pour réserver ou simplement discuter, je serais ravi d’avoir de vos nouvelles."
+  whatsapp: "WhatsApp"
+  telegram: "Telegram"
+  call: "Appeler"
+  location: "Lieu"
+  avatarAlt: "Portrait du conducteur"
+  apology: "Désolé, je parle seulement anglais et khmer."
+
+galleryAlt: "Photo de l’excursion à Kampot – %s"

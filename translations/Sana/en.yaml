@@ -1,0 +1,124 @@
+hero:
+  title: "Kampong Trach"
+  tags:
+    - "Limestone cliffs"
+    - "History"
+    - "Rural Life"
+  subtitle: "Kampot's Best Kept Secret!"
+  cta:
+    primary: "Book day-trip"
+    secondary: "Learn more"
+
+featured:
+  label: "Featured tour"
+  title: "Kampong Trach Day-Trip"
+  blurb_short: "Visit some of the most beautiful countryside in Kampot Province. Limestone cliffs, sacred caves, traditional villages, rice fields, and more."
+  details:
+    - "Tourism has only recently returned here after a difficult past."
+    - "Your guide grew up here and loves to share the sites, countryside, and people."
+    - "Flexible schedule and stops—photography, history, or just nature."
+  note: "Beauty. Tragedy. Healing. Kampong Trach tells the story of Cambodia."
+
+story:
+  p1: "Kampong Trach, about 40km from downtown Kampot, was once one of the most famous areas in Kampot Province. Its dramatic limestone cliffs and the area's natural beauty led to the development of a bustling trade center during French colonization. And then, in the late 1960s, the Khmer Rouge came....."
+  p2: "The American bombings soon followed. The area was devastated. Our peaceful countryside became a war zone. The dramatic limestone cliffs and caves, once popular tourist attractions, became hiding places for villagers, like my family. I was born here in the 1980s, during the civil war. We lived under the Khmer Rouge until they finally surrendered in 1995."
+  p3: "Today, development is slow, but the land is healing. The caves and shrines now stand as memorials. The rice fields are alive with buffalo, and the lakes  we were forced to build under The Khmer Rouge now reflect the natural beauty of this place."
+  p4: "I’d love to show you Kampong Trach: an authentic side of rural Cambodia and, in my view, one of the most beautiful areas in the province. A place only now being re-discovered by tourism."
+
+tours:
+  bridge: "Kampot province has lots to offer! I can also bring you on the Kampot Classic tours!"
+  labels:
+    from: "From"
+    perPerson: "/ person"
+    readMore: "Read More"
+    readLess: "Read Less"
+    includes: "Includes"
+    prices: "Prices"
+    people: "People"
+    person: "person"
+  list:
+    - id: "kampong-trach"
+      name: "Kampong Trach"
+      title: "Kampong Trach — Featured Tour"
+      short: "Exerience authentic Cambodian countryside that tourists have yet to discover!"
+      duration: "Full Day"
+      details: |
+        Visit some of the most beautiful and authentic countryside in Kampot Province. 
+
+        Limestone cliffs, sacred caves, traditional villages, rice fields, and more! Tourism has only recently returned here after a difficult past. I grew up here and would love to show you the sites, the countryside, and the people I love so much!
+
+        Discover a part of Kampot Province few tourists see.
+      highlights:
+        - "Mountain Cave — a jungle inside!"
+        - "Swimming pool water cave"
+        - "The Moon Cave"
+        - "Phnom Damrai (Elephant mountain)"
+        - "Buffalo fields"
+        - "Phnom TuekThom"
+        - "Villages, rice fields, and more!"
+        - "Hotel pickup & drop-off"
+      cta: "Book Now"
+
+    - id: "countryside-full"
+      name: " Kampot & Kep"
+      title: "Full-Day Countryside Tour — Kampot & Kep"
+      short: "Experience the best of Kampot and Kep in one unforgettable day. "
+      duration: "Full Day"
+      details: |
+        The Full-Day Grand Tour! Kampot Countryside & Kep.
+
+        Explore ancient caves, stroll pepper farms, and see salt fields and hidden lakes before ending your adventure in Kep with fresh seafood and ocean breezes.
+      highlights:
+        - "Kampot pepper plantation"
+        - "Phnom Chhngok cave temple"
+        - "Secret Lake"
+        - "Kep Crab Market (seafood lunch)"
+        - "Kep National Park trails"
+        - "Kep Beach swim"
+        - "Abandoned French villas"
+      cta: "Book Now"
+
+    - id: "countryside-half"
+      name: "Kampot Classic"
+      title: "Kampot Countryside (Half-day)"
+      short: "Uncover the charm of Kampot in just half a day. "
+      duration: "Half Day"
+      details: |
+        Wander through salt fields, explore ancient caves, visit world-famous pepper farms, and relax by the serene waters of the secret lake. This tour is designed for those who want to experience the charm of Kampot's countryside without committing to a full day of travel.
+      highlights:
+        - "Salt fields"
+        - "Pepper farm tour & tasting"
+        - "Limestone caves with ancient shrines"
+        - "Secret Lake"
+      cta: "Book Now"
+
+about:
+  title: "About Your Driver"
+  body: "Local driver-guide from Kampong Trach. Friendly, safe, and experienced on countryside routes. Clean tuk-tuk, sun/rain cover, and extra water."
+
+contact:
+  title: "Ready to go?"
+  sub: "Want to book a tour, or just ask a question? Message me anytime!"
+  buttons:
+    whatsapp: "WhatsApp"
+    telegram: "Telegram"
+    phone: "Call"
+    email: "Email"
+
+footer:
+  contactLabel: "Contact"
+  languageLabel: "Language"
+
+# UI strings used by the Prices component and elsewhere
+ui:
+  prices:
+    title: "Prices"
+    subtitleSuffix: "Prices are per person."
+    headers:
+      one: "1 person"
+      two: "2 people"
+      threePlus: "3+ people"
+    perPersonShort: "/ person"
+  people:
+    singular: "person"
+    plural: "people"

@@ -1,0 +1,138 @@
+brand:
+  title: "TukTuk Tours with Sa"
+
+seo:
+  title: "Sa’s TukTuk Tours • Kampot, Cambodia"
+  description: "Licensed local guide offering kayak trips, hidden waterfall hikes, and a full-day Grand Tour in Kampot, Cambodia. Hotel pickup, lunch, and drinks included on selected tours."
+
+nav:
+  tours: "Tours"
+  gallery: "Gallery"
+  contact: "Contact"
+
+sections:
+  toursTitle: "My Tours"
+  galleryTitle: "Gallery"
+  reviewsTitle: "What people are saying"
+  faqsTitle: "FAQs"
+  contactTitle: "Book a Tour"
+
+hero:
+  headline: "Welcome to my TukTuk Tours"
+  subhead: >
+    Hi, I’m Sa! Kampot is my home, and for over ten years I’ve been guiding
+    visitors through its caves, canals, farms, and hidden gems. I’m a licensed
+    guide and your adventure partner, not just your driver. Let’s make your time
+    in Kampot the highlight of your trip.
+  cta: "Book with me"
+  alt: "Sa smiling with straw hat — logo"
+
+priceLabel: "Per person"
+includesLabel: "Tour Includes"
+
+tours:
+  kayak:
+    name: "Kayak the Green Cathedral"
+    desc: >
+      Join me for a kayaking trip through Kampot’s famous mangrove forests. I’ll
+      explain the local fauna and flora, show you how to make lotus crowns, and
+      more! We’ll end the day with a traditional Khmer lunch and a swim at a
+      secluded sandy beach.
+    includes:
+      - "Pick up and drop off at your hotel"
+      - "Kayaks"
+      - "Traditional Khmer Lunch"
+      - "Drinks"
+
+  waterfall:
+    name: "Hidden Waterfall Tour"
+    desc: >
+      Escape the city and join me on a guided jungle hike to the Viel Pouch
+      Waterfall. Along the way, I’ll point out local plants and wildlife and
+      share my knowledge of the forest. Cool off with a swim, enjoy fresh fruit
+      and drinks, and experience a quiet side of Kampot many visitors miss.
+    includes:
+      - "Pick up and drop off at your hotel"
+      - "Fresh fruit and drinks"
+
+  grand:
+    name: "Kampot Grand Tour"
+    desc: >
+      Limited for time? Want to make the most of it? My Grand Tour will take you
+      to the major tourist attractions in Kampot in a single day. Sit back,
+      relax, and see everything Kampot has to offer!
+    includes:
+      - "The Salt Fields"
+      - "Visit to a Pepper Farm"
+      - "Stop off at Secret Lake"
+      - "Explore local ancient caves"
+      - "Kayak the Green Cathedral"
+      - "Traditional Khmer Lunch"
+
+  kep:
+    name: "Perfect Kep Day"
+    desc: >
+      A relaxed coastal day exploring Kep’s highlights. We start at 8:30am with an
+      ~8 km loop through Kep National Park, then visit the famous Crab Market,
+      beach, and the hillside meditation pagoda. Along the way we see old French-era
+      villas, wander a mangrove edge, and stop in a local fishing village—returning
+      around 4–5pm.
+    includes:
+      - "Pick up and drop off at your hotel"
+      - "Cool drinking water & fresh coconut"
+      - "Snacks"
+      - "English-speaking guide"
+
+reviews:
+  - author: "Rosetta Neal"
+    date: "Aug 7, 2025"
+    quote: "Wonderful afternoon tour with Mr Sa. Wealth of knowledge about this wonderful region and country. Fantastic English as well as other languages. Don’t think just book, you won’t regret it."
+    linkLabel: "Read on Google"
+    url: "https://maps.app.goo.gl/deY5b5rGsZYvzaNS6"
+  - author: "Rob & Jen Dickson"
+    date: "Mar 31, 2025"
+    quote: "Wonderful day kayaking on the river. Mr Sa grew up in the area and able to share his knowledge. His English was very good. A relaxing green oasis away from the hustle and bustle of Kampot. Would highly recommend!"
+    linkLabel: "Read on Google"
+    url: "https://maps.app.goo.gl/pH2tver78Recfeah9"
+  - author: "Matt Jenner"
+    date: "Feb 28, 2025"
+    quote: "Great day out with Mr Sa on the water. Much preferred this to a Bokor day trip via our hotel. The fried rice lunch at the end was very nice in a beautiful setting."
+    linkLabel: "Read on Google"
+    url: "https://maps.app.goo.gl/xqitCtJbu8sLipod7"
+
+faqs:
+  - q: "How do I book?"
+    a: >
+      Message me on WhatsApp, Telegram, or Call using the buttons below. Tell me your
+      date, group size, and which tour you’d like. I’ll reply quickly to confirm
+      availability, share the pick-up time, and send a short confirmation so you
+      know you’re set.
+  - q: "Where do you pick up?"
+    a: >
+      I provide pick-up and drop-off at your hotel in Kampot. When you book, please
+      include your hotel name (or a map link). I’ll confirm the exact time and meeting
+      point in the booking chat.
+  - q: "What should I bring?"
+    a: >
+      Bring sunblock, a hat, swimwear (for kayaking/waterfall), and comfortable
+      walking shoes. A small day bag is helpful, and a towel/change of clothes
+      if you plan to swim. I provide water and fresh fruit.
+  - q: "What languages are offered?"
+    a: >
+      English & Khmer. In other languages I only know a few words—good for a small joke,
+      not for directions or safety.
+  - q: "Do you offer group rates?"
+    a: >
+      For large groups, please share your dates, approximate number of PAX, and logistics,
+      and I’ll provide a proposal and pricing.
+
+contact:
+  intro: "Let's go on an adventure together! Whether you want to book or just chat, I’d love to hear from you."
+  whatsapp: "WhatsApp"
+  telegram: "Telegram"
+  call: "Call"
+  location: "Location"
+  avatarAlt: "Driver avatar"
+  apology: "Sorry, I can only speak English and Khmer."
+
+galleryAlt: "Kampot tour photo – %s"

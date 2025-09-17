@@ -1,0 +1,123 @@
+hero:
+  title: "Kampong Trach"
+  tags:
+    - "Kalksteinfelsen"
+    - "Geschichte"
+    - "Ländliches Leben"
+  subtitle: "Das bestgehütete Geheimnis von Kampot!"
+  cta:
+    primary: "Tagesausflug buchen"
+    secondary: "Mehr erfahren"
+
+featured:
+  label: "Empfohlene Tour"
+  title: "Tagesausflug nach Kampong Trach"
+  blurb_short: "Entdecken Sie einige der schönsten Landschaften der Provinz Kampot: Kalksteinfelsen, heilige Höhlen, traditionelle Dörfer, Reisfelder und vieles mehr."
+  details:
+    - "Der Tourismus ist erst seit Kurzem nach einer schwierigen Vergangenheit zurückgekehrt."
+    - "Ihr Guide ist hier aufgewachsen und teilt gerne die Sehenswürdigkeiten, die Landschaft und die Menschen."
+    - "Flexibler Zeitplan und Stopps — Fotografie, Geschichte oder einfach Natur."
+  note: "Schönheit. Tragödie. Heilung. Kampong Trach erzählt die Geschichte Kambodschas."
+
+story:
+  p1: "Kampong Trach, etwa 40 km von der Innenstadt von Kampot entfernt, war einst eine der bekanntesten Gegenden der Provinz. Seine dramatischen Kalksteinfelsen und die natürliche Schönheit führten während der französischen Kolonialzeit zur Entwicklung eines lebhaften Handelszentrums. Und dann, Ende der 1960er Jahre, kamen die Khmer Rouge…"
+  p2: "Es folgten die amerikanischen Bombardierungen. Die Gegend wurde verwüstet. Unsere friedliche Landschaft wurde zur Kriegszone. Die dramatischen Kalksteinfelsen und Höhlen, einst beliebte Attraktionen, wurden zu Verstecken für Dorfbewohner, wie meine Familie. Ich wurde hier in den 1980er Jahren, während des Bürgerkriegs, geboren. Wir lebten unter den Khmer Rouge bis zu ihrer Kapitulation 1995."
+  p3: "Heute entwickelt sich die Region langsam, aber das Land heilt. Die Höhlen und Schreine stehen nun als Mahnmale. Die Reisfelder sind voller Büffel, und die Seen, die wir unter den Khmer Rouge bauen mussten, spiegeln heute die natürliche Schönheit dieses Ortes wider."
+  p4: "Ich würde Ihnen gerne Kampong Trach zeigen: eine authentische Seite des ländlichen Kambodscha und, meiner Meinung nach, eine der schönsten Gegenden der Provinz. Ein Ort, der erst jetzt vom Tourismus wiederentdeckt wird."
+
+tours:
+  bridge: "Die Provinz Kampot hat viel zu bieten! Ich kann Sie auch auf die klassischen Kampot-Touren mitnehmen!"
+  labels:
+    from: "Ab"
+    perPerson: "/ Person"
+    readMore: "Mehr lesen"
+    readLess: "Weniger lesen"
+    includes: "Beinhaltet"
+    prices: "Preise"
+    people: "Personen"
+    person: "Person"
+  list:
+    - id: "kampong-trach"
+      name: "Kampong Trach"
+      title: "Kampong Trach — Empfohlene Tour"
+      short: "Erleben Sie authentische kambodschanische Landschaften, die Touristen noch kaum entdeckt haben!"
+      duration: "Ganzer Tag"
+      details: |
+        Entdecken Sie einige der schönsten und authentischsten Landschaften der Provinz Kampot. 
+
+        Kalksteinfelsen, heilige Höhlen, traditionelle Dörfer, Reisfelder und vieles mehr! Der Tourismus ist erst seit Kurzem nach einer schwierigen Vergangenheit zurückgekehrt. Ich bin hier aufgewachsen und würde mich freuen, Ihnen die Sehenswürdigkeiten, die Landschaft und die Menschen zu zeigen, die ich so sehr liebe!
+
+        Entdecken Sie einen Teil der Provinz Kampot, den nur wenige Besucher kennen.
+      highlights:
+        - "Berg-Höhle — ein Dschungel im Inneren!"
+        - "Wasserhöhle mit Naturpool"
+        - "Die Mondhöhle"
+        - "Phnom Damrai (Elefantenberg)"
+        - "Büffelfelder"
+        - "Phnom TuekThom"
+        - "Dörfer, Reisfelder und mehr!"
+        - "Abholung & Rücktransfer vom Hotel"
+      cta: "Jetzt buchen"
+
+    - id: "countryside-full"
+      name: "Kampot & Kep"
+      title: "Ganztägige Ländertour — Kampot & Kep"
+      short: "Erleben Sie das Beste von Kampot und Kep an einem unvergesslichen Tag."
+      duration: "Ganzer Tag"
+      details: |
+        Die große Ganztagestour! Kampot-Landschaft & Kep.
+
+        Erkunden Sie alte Höhlen, spazieren Sie durch Pfefferplantagen, sehen Sie Salzfelder und versteckte Seen, bevor Sie Ihr Abenteuer in Kep mit frischen Meeresfrüchten und Meeresbrise beenden.
+      highlights:
+        - "Pfefferplantage von Kampot"
+        - "Phnom Chhngok Höhlentempel"
+        - "Geheimer See"
+        - "Kep-Krabbenmarkt (Mittagessen mit Meeresfrüchten)"
+        - "Wanderwege im Kep-Nationalpark"
+        - "Schwimmen am Kep-Strand"
+        - "Verlassene französische Villen"
+      cta: "Jetzt buchen"
+
+    - id: "countryside-half"
+      name: "Klassisches Kampot"
+      title: "Kampot-Landschaft (Halbtägig)"
+      short: "Entdecken Sie den Charme von Kampot in nur einem halben Tag."
+      duration: "Halber Tag"
+      details: |
+        Schlendern Sie durch Salzfelder, erkunden Sie alte Höhlen, besuchen Sie weltberühmte Pfefferfarmen und entspannen Sie sich an den ruhigen Ufern des geheimen Sees. Diese Tour ist ideal für alle, die den Charme der Kampot-Landschaft erleben möchten, ohne einen ganzen Tag zu investieren.
+      highlights:
+        - "Salzfelder"
+        - "Pfefferfarm-Tour & Verkostung"
+        - "Kalksteinhöhlen mit alten Schreinen"
+        - "Geheimer See"
+      cta: "Jetzt buchen"
+
+about:
+  title: "Über Ihren Fahrer"
+  body: "Lokaler Fahrer-Guide aus Kampong Trach. Freundlich, sicher und erfahren auf Landstraßen. Sauberer Tuk-Tuk, Schutz vor Sonne/Regen und zusätzliches Wasser."
+
+contact:
+  title: "Bereit für die Abfahrt?"
+  sub: "Möchten Sie eine Tour buchen oder einfach eine Frage stellen? Schreiben Sie mir jederzeit!"
+  buttons:
+    whatsapp: "WhatsApp"
+    telegram: "Telegram"
+    phone: "Anrufen"
+    email: "E-Mail"
+
+footer:
+  contactLabel: "Kontakt"
+  languageLabel: "Sprache"
+
+ui:
+  prices:
+    title: "Preise"
+    subtitleSuffix: "Preise gelten pro Person."
+    headers:
+      one: "1 Person"
+      two: "2 Personen"
+      threePlus: "3+ Personen"
+    perPersonShort: "/ Person"
+  people:
+    singular: "Person"
+    plural: "Personen"
